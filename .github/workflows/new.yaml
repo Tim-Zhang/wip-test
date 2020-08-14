@@ -14,3 +14,4 @@ jobs:
         pendingComment: "action pending!"
         successComment: "action success!"
         failComment: "action failed!"
+        ignoreForks: "false"
